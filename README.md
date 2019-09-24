@@ -41,9 +41,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 ## Adding Data to Your Map
 
-8-Download the SampleData.csv file from this repo.
-
-<blockquote><a href="https://support.office.com/en-us/article/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6"><em>Guide for saving an Excel file as a CSV.</em></a></blockquote>
+8-Download the one of the datasets from this repository. Save the file to your Desktop.
 
 <p align="center"><img class=" size-full wp-image-60 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="Capture_7"  /></p>
 
@@ -81,7 +79,7 @@ You can change the background map by click a different option in the Basemap dro
 
 ### Legend
 
-If you want to style points by location, emotion, or another attribute, click on the Change Style icon. Choose an element from your data, and explore the drawing style options.
+If you want to style points by location, category, or another attribute, click on the Change Style icon. Choose an element from your data, and explore the drawing style options.
 
 <p align="center"><img class=" size-full wp-image-69 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_16.png?raw=true" alt="Capture_16"  /></p>
 
@@ -115,7 +113,7 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 <hr />
 
-14-Work as a group to explore display options for your data. One layer does not have to communicate all relevant aspects of the data.
+14-Explore display options for your data. One layer does not have to communicate all relevant aspects of the data.
 
 <p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture_12" /></p>
 
@@ -161,9 +159,8 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 <hr />
 
-### Large Group Shareouts
+### Reflection Questions
 
-Share the interactive map your group created.
 <ul>
  	<li>What aspects of the data are highlighted?</li>
  	<li>What does your interactive map communicate about the data?</li>
