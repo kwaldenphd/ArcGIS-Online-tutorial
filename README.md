@@ -99,7 +99,7 @@ You can create a Heat Map in the Change Style window.
 
 You can also cluster points using the Cluster Points option in the main map editing window.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screeshots/Capture_12.png?raw=true" alt="Capture_12"  /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture_12"  /></p>
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="Capture_19"  /></p>
 
@@ -143,20 +143,20 @@ We'll be using a layer of polygons that includes Iowa School District boundaries
 
 ### Adding Polygons to a Web Map
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_aa.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_aa.PNG?raw=true" alt="Capture_12" /></p>
 
 18- Navigate to [Iowa School District layer in ArcGIS Online](http://arcg.is/C4TzS).
 
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_bb.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_bb.PNG?raw=true" alt="Capture_12" /></p>
 
 19- Click on the Data menu link to look at the back-end data for the polygon layer.
 
 20- Notice the DE_DIST data field contains unique identifiers that match the District Number field in the District Enrollment CSV file we've been using. We'll eventually use those matching identifiers to connect the enrollment data to the district polygon data.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_cc.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_cc.PNG?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_dd.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_dd.PNG?raw=true" alt="Capture_12" /></p>
 
 21- Click the Open in Map Viewer button to open the district polygon layer in a new Web Map.
 
@@ -164,21 +164,21 @@ We'll be using a layer of polygons that includes Iowa School District boundaries
 
 ### Joining Data to Polygons
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ee.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ee.PNG?raw=true" alt="Capture_12" /></p>
 
 23-Click the Analysis menu button to join the two datasets.
 
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ff.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ff.PNG?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_hh.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_hh.PNG?raw=true" alt="Capture_12" /></p>
 
 
 24-Select Join Features under Summarize Data.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ii.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ii.PNG?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_jj.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_jj.PNG?raw=true" alt="Capture_12" /></p>
 
 25- Choose the district polygon layer as the target layer, and the district enrollment CSV file as the layer to join to the target layer.
 
@@ -195,35 +195,35 @@ We'll be using a layer of polygons that includes Iowa School District boundaries
 
 30- One of the benefits of working with ArcGIS Online is the option to add additional data layers that other users have published and shared to the web.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_oo.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_oo.PNG?raw=true" alt="Capture_12" /></p>
 
 31- Click on Search for Layers under Add to explore additional data you could add to the map.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_pp.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_pp.PNG?raw=true" alt="Capture_12" /></p>
 
 32- Select ArcGIS Online under the drop-down list of options to explore all data that has been published to ArcGIS Online.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_qq.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_qq.PNG?raw=true" alt="Capture_12" /></p>
 
 33- Use keywords and search terms to find possible layers to add.
 
 ## Exporting and Sharing Your Map
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_kk.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_kk.PNG?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ll.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ll.PNG?raw=true" alt="Capture_12" /></p>
 
 34-Click on the Print menu option to open a print view for your map in a new browser window.
 
 35-You can save this image as an image file or print the web page as a PDF to save the map as a PDF file.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_mm.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_mm.PNG?raw=true" alt="Capture_12" /></p>
 
 36-Click on the Share menu option to show a pop-up window with sharing options.
 
 37-One sharing option is to generate a view-only link to your Web Map.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_nn.png?raw=true" alt="Capture_12" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_nn.PNG?raw=true" alt="Capture_12" /></p>
 
 38-You can also generate HTML code to embed your map in another web page.
 </hr>
