@@ -1,9 +1,11 @@
 # ArcGIS Online Tutorial
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
-Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+Building an ArcGIS Online Web Map by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 <hr />
+
+<em>ArcGIS is an industry-standard tool developed by geographers in the 1970s. As digital historians have pursued more complex and large-scale spatial analysis projects, ArcGIS is a tool frequently used to visualize and analyze spatial data. The ArcGIS Online platform is featured in many digital mapping projects) allows data analyzed and visualized in ArcGIS to be interactive and publicly-accessible.</em>
 
 ## Logging in to ArcGIS Online
 
@@ -13,7 +15,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 2-Click the blue <strong>Sign In</strong> button in the middle of the page.
 
-3-Log in by creating a free account or using your institutional logins.
+3-Log in using the username and password created when you accepted the email invitation.
 
 <p align="center"><img class=" size-full wp-image-54 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_1.png?raw=true" alt="Capture_1" /></p>
 
@@ -41,15 +43,13 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 ## Adding Data to Your Map
 
-8-Download the SampleData.csv file from this repo.
-
-<blockquote><a href="https://support.office.com/en-us/article/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6"><em>Guide for saving an Excel file as a CSV.</em></a></blockquote>
+8-Download the 2018-2019 Iowa Public School District CSV file from this repo.
 
 <p align="center"><img class=" size-full wp-image-60 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="Capture_7"  /></p>
 
 9-Click on the Add icon in the top-left corner of the page, and select Add Layer from File.
 
-10-Click the Browse icon and select the CSV file saved to your Desktop.
+10-Click the Browse icon and select the Iowa Public School District CSV file saved to your Desktop.
 
 <p align="center"><img class=" size-full wp-image-61 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true" alt="Capture_8"  /></p>
 
@@ -129,41 +129,145 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 <hr />
 
-# Creating an ArcGIS Online Web Application
+## Working With Polygon Data
 
-<p align="center"><img class=" size-full wp-image-73 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true" alt="Capture_20"  /></p>
+Up to this point, we have been working with geospatial data that includes points with specific latitude and longitude. But, in many cases a specific point is not the most effective or accurate spatial representation. For example, data that covers an entire district, region, or state will not be effectively represented by a single map point.
 
-18-Click on the ArcGIS icon in the top left corner, and return to the Content page.
+In such cases, we need to be working with polygon, rather than point, geospatial data.
 
-<p align="center"><img class=" size-full wp-image-56 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true" alt="Capture_3"  /></p>
+As described on [ArcGIS's website](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/), "Points define a single location on the map, such as a user's location...Polygons define closed shapes, such as the outline of a lake."
 
-19-The map you created will now appear as a content item.
+We'll be using a layer of polygons that includes Iowa School District boundaries.
+- [Link to original data source](https://geodata.iowa.gov/dataset/school-district-boundaries-2018-2019)
+- [Link to layer in ArcGIS Online](http://arcg.is/C4TzS)
 
-20-Click on the Web Map item.
+### Adding Polygons to a Web Map
 
-<p align="center"><img class=" size-full wp-image-75 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_22.PNG?raw=true" alt="Capture_22" /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_aa.png?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-76 aligncenter" src="https://mappingemotion.files.wordpress.com/2018/09/capture_23.png" alt="Capture_23"  /></p>
+18- Navigate to [Iowa School District layer in ArcGIS Online](http://arcg.is/C4TzS).
 
-21-Click on Create Web App—Using a Template
 
-<p align="center"><img class="size-full wp-image-77 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_24.PNG?raw=true" alt="Capture_24"  /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_bb.png?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-78 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_25.PNG?raw=true" alt="Capture_25"  /></p>
+19- Click on the Data menu link to look at the back-end data for the polygon layer.
 
-22-Click on Build a Story Map, and select Story Map Series.
+20- Notice the DE_DIST data field contains unique identifiers that match the District Number field in the District Enrollment CSV file we've been using. We'll eventually use those matching identifiers to connect the enrollment data to the district polygon data.
 
-23-Click the blue Create Web App icon to start customizing your web application.
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_cc.png?raw=true" alt="Capture_12" /></p>
 
-<p align="center"><img class=" size-full wp-image-79 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_26.PNG?raw=true" alt="Capture_26"  /></p>
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_dd.png?raw=true" alt="Capture_12" /></p>
 
-24-ArcGIS will automatically use the title, tags, and summary from your Web Map. You can change any of these fields if needed, then click Done.
+21- Click the Open in Map Viewer button to open the district polygon layer in a new Web Map.
 
-<hr />
+22- Remember to save the Web Map regularly.
 
-### Large Group Shareouts
+### Joining Data to Polygons
 
-Share the interactive map your group created.
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ee.png?raw=true" alt="Capture_12" /></p>
+
+23-Click the Analysis menu button to join the two datasets.
+
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ff.png?raw=true" alt="Capture_12" /></p>
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_hh.png?raw=true" alt="Capture_12" /></p>
+
+
+24-Select Join Features under Summarize Data.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ii.png?raw=true" alt="Capture_12" /></p>
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_jj.png?raw=true" alt="Capture_12" /></p>
+
+25- Choose the district polygon layer as the target layer, and the district enrollment CSV file as the layer to join to the target layer.
+
+26- Select the option to join the layers based on a matching field, and select the DE_DIST field from the polygon layer and the DISTRICT NUMBER field from the CSV layer.
+
+27- Make sure Join One to One is selected under Choose join operations.
+
+28- Give the Result layer name a descriptive title.
+
+29- Click the Run Analysis button to join the two layers.
+
+
+## Adding Other Data Layers
+
+30- One of the benefits of working with ArcGIS Online is the option to add additional data layers that other users have published and shared to the web.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_oo.png?raw=true" alt="Capture_12" /></p>
+
+31- Click on Search for Layers under Add to explore additional data you could add to the map.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_pp.png?raw=true" alt="Capture_12" /></p>
+
+32- Select ArcGIS Online under the drop-down list of options to explore all data that has been published to ArcGIS Online.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_qq.png?raw=true" alt="Capture_12" /></p>
+
+33- Use keywords and search terms to find possible layers to add.
+
+## Exporting and Sharing Your Map
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_kk.png?raw=true" alt="Capture_12" /></p>
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_ll.png?raw=true" alt="Capture_12" /></p>
+
+34-Click on the Print menu option to open a print view for your map in a new browser window.
+
+35-You can save this image as an image file or print the web page as a PDF to save the map as a PDF file.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_mm.png?raw=true" alt="Capture_12" /></p>
+
+36-Click on the Share menu option to show a pop-up window with sharing options.
+
+37-One sharing option is to generate a view-only link to your Web Map.
+
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/HUM297/screenshots/Capture_nn.png?raw=true" alt="Capture_12" /></p>
+
+38-You can also generate HTML code to embed your map in another web page.
+</hr>
+
+# Design Brainstorm
+
+## Group roles
+
+SCRIBE
+- One member of the group is the primary scribe (taking notes, shared documentation), others add details as needed
+
+TIME KEEPER
+- A second member of the group is responsible for keeping track of time/staying on task
+
+PRESENTER
+- A third member of the group is responsible for sharing your research plan/proposal with the larger group
+
+## Step 1 (5 minutes)
+
+Take 5 minutes to explore the Iowa School District Enrollment data with your group.
+
+- What types of data are represented?
+- What questions do you have about this data?
+- What is not accounted for in this data?
+
+## Step 2 (7 minutes)
+
+Working as a group, explore what types of research questions could you ask of this data, or what stories could you tell with this data.
+
+Decide what aspects of the data you will need to focus on to address your research question or topic focus.
+
+Brainstorm what other kinds of data you might want to include to respond to your research question.
+
+## Step 3 (15 minutes)
+
+Work as a group to build and customize an ArcGIS Online Web Map that responds to your reserach question or topic focus.
+
+## Step 4 (5 minutes per group)
+
+Share your group's work with the larger group.
+
+Present your analysis and visualizations, but also reflect on your process of developing a research focus and engaging with the data. 
+
+Questions to consider when sharing out:
 <ul>
  	<li>What aspects of the data are highlighted?</li>
  	<li>What does your interactive map communicate about the data?</li>
@@ -172,65 +276,3 @@ Share the interactive map your group created.
 </ul>
 
 <hr />
-
-## Design Brainstorm &amp; Next Steps
-
-Even though we are using an ArcGIS Online template, you still have a range of options for building and customizing your interactive map.
-
-<blockquote>Based on the map layers you created in ArcGIS Online, what aspects of the data do you want to highlight?
-
-What do different map layers communicate about the data?
-
-What do you think is important to communicate about the data?</blockquote>
-
-Explore the <a href="http://storymaps.arcgis.com/en/app-list/map-series/gallery-series/#s=0&amp;md=storymaps-apps:map-series">gallery of web applications built using this template</a> to imagine possible design and content choices. Are there <a href="http://enterprise.arcgis.com/en/portal/latest/use/application-templates.htm">other templates </a>you might be interested in exploring?
-
-## Building Your Web Application
-
-Let the notes from the design brainstorm guide as you build out the interactive map.
-
-<blockquote><em>*Note: This tutorial outlines steps for building one type of interactive map template, in order to show the basic functionality and editing features of ArcGIS Online. You may decide a different template is the best fit for your project. The specifics of that template will be different from what you're seeing here, but the basic features and functionality will likely have some overlap.</em></blockquote>
-
-<p align="center"><img class=" size-full wp-image-80 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_27.PNG?raw=true" alt="Capture_27" /></p>
-
-### Layout options
-
-Like you saw in the gallery, this template offers Tabbed, Side Accordion, or Bulleted layout options.
-
-<p align="center"><img class=" size-full wp-image-84 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="Capture_31"  /></p>
-
-You can customize other layout settings like color scheme under Settings.
-
-### Maps and Map Layers
-
-<p align="center"><img class=" size-full wp-image-81 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true" alt="Capture_28"  /></p>
-
-<p align="center"><img class=" size-full wp-image-82 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true" alt="Capture_29"  /></p>
-
-For any of the layout options, you can bring in layers from the Web Map you created in previous sections of this tutorial. Customizing the map content display allows you to use the same Web Map and select specific players to display on a page.
-
-### Text
-
-<p align="center"><img class=" size-full wp-image-100 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_33.PNG?raw=true" alt="Capture_33"  /></p>
-
-For any of the layout options, you can include text or other multimedia content to accompany the map.
-
-<p align="center"><img class=" size-full wp-image-101 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_34.PNG?raw=true" alt="Capture_34"  /></p>
-
-Leaving this panel blank will make it hidden (not visible) in the public map interface.
-
-Click the blue Save icon in the top right-hand corner of the screen often to save changes to the project.
-
-<p align="center"><img class=" size-full wp-image-84 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="Capture_31"  /></p>
-
-Click on View Story in the top menu to see what the public application interface will look like.
-
-<hr />
-
-## Publishing the Web Application
-
-When done building and customizing the web application, save the project.
-
-<p align="center"><img class=" size-full wp-image-85 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_32.PNG?raw=true" alt="Capture_32"  /></p>
-
-Click on Share in the top menu to publish your web application.
