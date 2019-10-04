@@ -11,9 +11,9 @@ Building an ArcGIS Online Web Map by <a href="dlac.grinnell.edu" rel="cc:attribu
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture.png?raw=true" alt="Capture" /></p>
 
-1-Open Firefox, Chrome, or Safari and navigate to <a href="https://www.arcgis.com/index.html">https://www.arcgis.com/index.html</a> in the web browser.
+1-Open Firefox, Chrome, or Safari.
 
-2-Click the blue <strong>Sign In</strong> button in the middle of the page.
+2-Navigate to <a href="https://grinnell.maps.arcgis.coml">https://grinnell.maps.arcgis.coml</a> in the web browser.
 
 3-Log in using the username and password created when you accepted the email invitation.
 
