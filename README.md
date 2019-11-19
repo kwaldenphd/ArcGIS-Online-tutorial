@@ -7,7 +7,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 ## Logging in to ArcGIS Online
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture.png?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_a.png?raw=true" alt="Capture" /></p>
 
 1-Open Firefox or Chrome and navigate to <a href="http://grinnell.maps.arcgis.com/">http://grinnell.maps.arcgis.com/</a> in the web browser.
 
@@ -17,9 +17,7 @@ Password: dasil123
 
 3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
-<p align="center"><img class=" size-full wp-image-54 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_1.png?raw=true" alt="Capture_1" /></p>
-
-<p align="center"><img class=" size-full wp-image-55 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_2.png?raw=true" alt="Capture_2"  /></p>
+<p align="center"><img class=" size-full wp-image-54 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_b.png?raw=true" alt="Capture_1" /></p>
 
 4-Once logged in, click on <strong>Content</strong> in the menu on the top-left of the page.
 
@@ -27,11 +25,11 @@ Password: dasil123
 
 ## Creating a New Map
 
-<p align="center"><img class=" size-full wp-image-57 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_4.PNG?raw=true" alt="Capture_4" /></p>
+<p align="center"><img class=" size-full wp-image-58 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_c.png?raw=true" alt="Capture_5"  /></p>
 
 5-Once in Content, click on Create-Map to start building an interactive online map.
 
-<p align="center"><img class=" size-full wp-image-58 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_5.PNG?raw=true" alt="Capture_5"  /></p>
+<p align="center"><img class=" size-full wp-image-59 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_d.png?raw=true" alt="Capture_6"  /></p>
 
 6-Add a title, tags, and summary, and click the blue OK icon.
 
@@ -49,7 +47,7 @@ Password: dasil123
 
 <blockquote><a href="https://support.office.com/en-us/article/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6"><em>Guide for saving an Excel file as a CSV.</em></a></blockquote>
 
-<p align="center"><img class=" size-full wp-image-60 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="Capture_7"  /></p>
+<p align="center"><img class=" size-full wp-image-60 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_e.png?raw=true" alt="Capture_7"  /></p>
 
 9-Click on the Add icon in the top-left corner of the page, and select Add Layer from File.
 
@@ -59,7 +57,7 @@ Password: dasil123
 
 11-Click the blue Import Layer icon to add the data to your map.
 
-<p align="center"><img class=" size-full wp-image-62 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="Capture_9" /></p>
+<p align="center"><img class=" size-full wp-image-62 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_f.png?raw=true" alt="Capture_9" /></p>
 
 12-Click the blue Done icon to finish adding data to your map.
 
@@ -135,7 +133,13 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 ## Adding Other Data From ArcGIS Online
 
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_c.png?raw=true" alt="Capture_19"  /></p>
+
 20-Select Add--Search for Layers to bring in data that other users have published to ArcGIS Online.
+
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_m.png?raw=true" alt="Capture_19"  /></p>
+
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_n.png?raw=true" alt="Capture_19"  /></p>
 
 21-Click on My Content to open up a drop-down menu. Select the option to search through ArcGIS Online.
 
@@ -145,7 +149,11 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 23-Save your map regularly by clicking the Save icon.
 
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_j.png?raw=true" alt="Capture_19"  /></p>
+
 24-Click the Share icon when you are ready to share your map with other users in the Grinnell organization or the general public.
+
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_k.png?raw=true" alt="Capture_19"  /></p>
 
 25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
 
