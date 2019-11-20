@@ -13,7 +13,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 2-Use the following credentials to log in:
 - Username: dasil1
-Password: dasil123
+- Password: dasil123
 
 3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
