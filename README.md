@@ -123,11 +123,11 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 15-But in some cases we might want to work with geospatial data that isn't effectively represented by a dot on a map. If the locations in your data cover an area, territory, or region (for example a state or country), polygon geospatial data may be a better fit.
 
-16-Download the SchoolData.zip folder and SchoolData.csv file from this repository.
+16-Download the SchoolData GeoJSON file and SchoolData CSV file from this repository.
 
 17-Open the CSV file in Microsoft Excel or another spreadsheet program. What fields do you see represented? How is this geospatial data different from the squirrel data?
 
-18-Select Add--Add Layer from File. This time select the SchoolData.zip folder saved to your Desktop.
+18-Select Add--Add Layer from File. This time select the SchoolData GeoJSON file saved to your Desktop.
 
 19-You can customize the polygon layer in the same way you customized the point layer.
 
