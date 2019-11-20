@@ -234,3 +234,11 @@ When done building and customizing the web application, save the project.
 <p align="center"><img class=" size-full wp-image-85 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_32.PNG?raw=true" alt="Capture_32"  /></p>
 
 Click on Share in the top menu to publish your web application.
+
+## Additional Resources
+
+If you want to try creating other interactive maps using different data sets, then you can access and download other sample data sets in the links provided below.  If you plan to use your own data set, then make sure your data include information related to location (i.e., longitude and latitude coordinates).
+
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-08-20">Nuclear Explosions</a>
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29">NYC Squirrel Census</a>
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25">UFO Sightings Around the World</a>
