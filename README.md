@@ -158,3 +158,12 @@ Hover your cursor over the data layer and click the three dots that appear to se
 25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
 
 <hr />
+
+## Additional Resources
+
+If you want to try creating other interactive maps using different data sets, then you can access and download other sample data sets in the links provided below.  If you plan to use your own data set, then make sure your data include information related to location (i.e., longitude and latitude coordinates).
+
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-08-20">Nuclear Explosions</a>
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29">NYC Squirrel Census</a>
+* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25">UFO Sightings Around the World</a>
+
