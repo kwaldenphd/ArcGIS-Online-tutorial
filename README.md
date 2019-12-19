@@ -7,21 +7,22 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 ## Logging in to ArcGIS Online
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture.png?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_a.png?raw=true" alt="Capture" /></p>
 
-1-Open Firefox, Chrome, or Safari and navigate to <a href="https://www.arcgis.com/index.html">https://www.arcgis.com/index.html</a> in the web browser.
+1-Open Firefox or Chrome and navigate to <a href="http://grinnell.maps.arcgis.com/">http://grinnell.maps.arcgis.com/</a> in the web browser.
 
-2-Click the blue <strong>Sign In</strong> button in the middle of the page.
+2-Use the following credentials to log in:
+- Username: dasil1
+- Password: dasil123
 
-3-Log in by creating a free account or using your institutional logins.
+3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
-<p align="center"><img class=" size-full wp-image-54 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_1.png?raw=true" alt="Capture_1" /></p>
-
-<p align="center"><img class=" size-full wp-image-55 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_2.png?raw=true" alt="Capture_2"  /></p>
+<p align="center"><img class=" size-full wp-image-54 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_b.png?raw=true" alt="Capture_1" /></p>
 
 4-Once logged in, click on <strong>Content</strong> in the menu on the top-left of the page.
 
 <hr />
+
 
 ## Creating a New Map
 
@@ -128,109 +129,36 @@ Hover your cursor over the data layer and click the three dots that appear to se
 17-Save the Web Map regularly to avoid losing any changes.
 
 <hr />
+## Adding Other Data From ArcGIS Online
 
-# Creating an ArcGIS Online Web Application
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_c.png?raw=true" alt="Capture_19"  /></p>
 
-<p align="center"><img class=" size-full wp-image-73 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_20.PNG?raw=true" alt="Capture_20"  /></p>
+20-Select Add--Search for Layers to bring in data that other users have published to ArcGIS Online.
 
-18-Click on the ArcGIS icon in the top left corner, and return to the Content page.
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_m.png?raw=true" alt="Capture_19"  /></p>
 
-<p align="center"><img class=" size-full wp-image-56 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_3.PNG?raw=true" alt="Capture_3"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_n.png?raw=true" alt="Capture_19"  /></p>
 
-19-The map you created will now appear as a content item.
+21-Click on My Content to open up a drop-down menu. Select the option to search through ArcGIS Online.
 
-20-Click on the Web Map item.
+22-Use different key words or terms to find other data that you might want to bring into your map.
 
-<p align="center"><img class=" size-full wp-image-75 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_22.PNG?raw=true" alt="Capture_22" /></p>
+## Saving, Sharing, and Printing Your Map
 
-<p align="center"><img class=" size-full wp-image-76 aligncenter" src="https://mappingemotion.files.wordpress.com/2018/09/capture_23.png" alt="Capture_23"  /></p>
+23-Save your map regularly by clicking the Save icon.
 
-21-Click on Create Web App—Using a Template
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_j.png?raw=true" alt="Capture_19"  /></p>
 
-<p align="center"><img class="size-full wp-image-77 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_24.PNG?raw=true" alt="Capture_24"  /></p>
+24-Click the Share icon when you are ready to share your map with other users in the Grinnell organization or the general public.
 
-<p align="center"><img class=" size-full wp-image-78 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_25.PNG?raw=true" alt="Capture_25"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_k.png?raw=true" alt="Capture_19"  /></p>
 
-22-Click on Build a Story Map, and select Story Map Series.
-
-23-Click the blue Create Web App icon to start customizing your web application.
-
-<p align="center"><img class=" size-full wp-image-79 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_26.PNG?raw=true" alt="Capture_26"  /></p>
-
-24-ArcGIS will automatically use the title, tags, and summary from your Web Map. You can change any of these fields if needed, then click Done.
+25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
 
 <hr />
 
-### Large Group Shareouts
+## Additional Resources
 
-Share the interactive map your group created.
-<ul>
- 	<li>What aspects of the data are highlighted?</li>
- 	<li>What does your interactive map communicate about the data?</li>
- 	<li>What could a user learn from your interactive map?</li>
- 	<li>Other ideas for how you might want to design or continue building the interactive map?</li>
-</ul>
+If you want to try creating other interactive maps using different data sets, then you can access and download other sample data sets in the links provided below.  If you plan to use your own data set, then make sure your data include information related to location (i.e., longitude and latitude coordinates).
 
-<hr />
 
-## Design Brainstorm &amp; Next Steps
-
-Even though we are using an ArcGIS Online template, you still have a range of options for building and customizing your interactive map.
-
-<blockquote>Based on the map layers you created in ArcGIS Online, what aspects of the data do you want to highlight?
-
-What do different map layers communicate about the data?
-
-What do you think is important to communicate about the data?</blockquote>
-
-Explore the <a href="http://storymaps.arcgis.com/en/app-list/map-series/gallery-series/#s=0&amp;md=storymaps-apps:map-series">gallery of web applications built using this template</a> to imagine possible design and content choices. Are there <a href="http://enterprise.arcgis.com/en/portal/latest/use/application-templates.htm">other templates </a>you might be interested in exploring?
-
-## Building Your Web Application
-
-Let the notes from the design brainstorm guide as you build out the interactive map.
-
-<blockquote><em>*Note: This tutorial outlines steps for building one type of interactive map template, in order to show the basic functionality and editing features of ArcGIS Online. You may decide a different template is the best fit for your project. The specifics of that template will be different from what you're seeing here, but the basic features and functionality will likely have some overlap.</em></blockquote>
-
-<p align="center"><img class=" size-full wp-image-80 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_27.PNG?raw=true" alt="Capture_27" /></p>
-
-### Layout options
-
-Like you saw in the gallery, this template offers Tabbed, Side Accordion, or Bulleted layout options.
-
-<p align="center"><img class=" size-full wp-image-84 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="Capture_31"  /></p>
-
-You can customize other layout settings like color scheme under Settings.
-
-### Maps and Map Layers
-
-<p align="center"><img class=" size-full wp-image-81 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_28.PNG?raw=true" alt="Capture_28"  /></p>
-
-<p align="center"><img class=" size-full wp-image-82 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_29.PNG?raw=true" alt="Capture_29"  /></p>
-
-For any of the layout options, you can bring in layers from the Web Map you created in previous sections of this tutorial. Customizing the map content display allows you to use the same Web Map and select specific players to display on a page.
-
-### Text
-
-<p align="center"><img class=" size-full wp-image-100 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_33.PNG?raw=true" alt="Capture_33"  /></p>
-
-For any of the layout options, you can include text or other multimedia content to accompany the map.
-
-<p align="center"><img class=" size-full wp-image-101 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_34.PNG?raw=true" alt="Capture_34"  /></p>
-
-Leaving this panel blank will make it hidden (not visible) in the public map interface.
-
-Click the blue Save icon in the top right-hand corner of the screen often to save changes to the project.
-
-<p align="center"><img class=" size-full wp-image-84 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_31.PNG?raw=true" alt="Capture_31"  /></p>
-
-Click on View Story in the top menu to see what the public application interface will look like.
-
-<hr />
-
-## Publishing the Web Application
-
-When done building and customizing the web application, save the project.
-
-<p align="center"><img class=" size-full wp-image-85 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_32.PNG?raw=true" alt="Capture_32"  /></p>
-
-Click on Share in the top menu to publish your web application.
