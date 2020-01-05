@@ -1,7 +1,7 @@
 # ArcGIS Online Tutorial
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
-Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 <hr />
 
@@ -11,9 +11,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 1-Open Firefox or Chrome and navigate to <a href="http://grinnell.maps.arcgis.com/">http://grinnell.maps.arcgis.com/</a> in the web browser.
 
-2-Use the following credentials to log in:
-- Username: dasil1
-- Password: dasil123
+2-Use the username and password you created after accepting the invitation to sign in.
 
 3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
@@ -44,7 +42,9 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 8-Download the SampleData.csv file from this repo.
 
-<blockquote><a href="https://support.office.com/en-us/article/save-a-workbook-to-text-format-txt-or-csv-3e9a9d6c-70da-4255-aa28-fcacf1f081e6"><em>Guide for saving an Excel file as a CSV.</em></a></blockquote>
+This dataset includes details about where Nirvana gave live performances. [Learn more about this dataset.](https://data.world/ben-pfeifer/nirvana-live-performances)
+
+Open the data file in Excel or another spreadsheet program. What data fields are you seeing?
 
 <p align="center"><img class=" size-full wp-image-60 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_7.png?raw=true" alt="Capture_7"  /></p>
 
@@ -116,7 +116,7 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 <hr />
 
-14-Work as a group to explore display options for your data. One layer does not have to communicate all relevant aspects of the data.
+14-Explore display options for this data. One layer does not have to communicate all relevant aspects of the data.
 
 <p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture_12" /></p>
 
@@ -156,9 +156,3 @@ Hover your cursor over the data layer and click the three dots that appear to se
 25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
 
 <hr />
-
-## Additional Resources
-
-If you want to try creating other interactive maps using different data sets, then you can access and download other sample data sets in the links provided below.  If you plan to use your own data set, then make sure your data include information related to location (i.e., longitude and latitude coordinates).
-
-
