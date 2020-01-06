@@ -21,6 +21,7 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 <hr />
 
+<blockquote><em>Note: This rest of this tutorial is written using a sample data set. Your data, map, and map layers will look different than the images included in the tutorial.</em></blockquote>
 
 ## Creating a New Map
 
@@ -30,7 +31,7 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 <p align="center"><img class=" size-full wp-image-58 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_5.PNG?raw=true" alt="Capture_5"  /></p>
 
-6-Add a title, tags, and summary, and click the blue OK icon.
+6-Add a title, tags, and summary, and click the blue OK icon. Provide information that will help you find and identify the map you're creating. 
 
 <p align="center"><img class=" size-full wp-image-59 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_6.PNG?raw=true" alt="Capture_6"  /></p>
 
@@ -63,8 +64,6 @@ Open the data file in Excel or another spreadsheet program. What data fields are
 <p align="center"><img class=" size-full wp-image-64 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture_11"  /></p>
 
 13-Click the Save icon above the map to save your map.
-
-<blockquote><em>Note: This rest of this tutorial is written using a sample data set. Your data, map, and map layers will look different than the images included in the tutorial.</em></blockquote>
 
 <hr />
 
