@@ -5,6 +5,21 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 <hr />
 
+# Table of Contents
+
+- [Logging in to ArcGIS Online](#logging-in-to-arcgis-online)
+- [Creating a New Map](#creating-a-new-map)
+- [Adding Data to Your Map](#adding-data-to-your-map)
+- [Customizing Your Map](#customizing-your-map)
+  * [Basemap](#basemap)
+  * [Legend](#legend)
+  * [Point symbol, color, and size](#point-symbol-color-and-size)
+  * [Heatmaps and clustering](#heatmaps-and-clustering)
+  * [Configuring Popups](#configuring-popups)
+  * [Other Options](#other-options)
+- [Adding Other Data from ArcGIS Online](#adding-other-data-from-arcgis-online)
+- [Saving, Sharing, and Printing Your Map](#saving-sharing-and-printing-your-map)
+
 ## Logging in to ArcGIS Online
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_a.png?raw=true" alt="Capture" /></p>
@@ -71,41 +86,41 @@ Open the data file in Excel or another spreadsheet program. What data fields are
 
 The default setting for ArcGIS Online is to display the locations in your data without any styling or customization. Hover your cursor over the data layer to see additional customization options. You can use multiple layers to display or highlight different aspects of the data on the map.
 
-<p align="center"><img class=" size-full wp-image-63 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture_10"  /></p>
-
 ### Basemap
+
+<p align="center"><img class=" size-full wp-image-63 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture_10"  /></p>
 
 You can change the background map by click a different option in the Basemap dropdown.
 
-<p align="center"><img class=" wp-image-66 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_13.PNG?raw=true" alt="Capture_13" /></p>
-
 ### Legend
 
+<p align="center"><img class=" wp-image-66 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_13.PNG?raw=true" alt="Capture_13" /></p>
+
 If you want to style points by location, emotion, or another attribute, click on the Change Style icon. Choose an element from your data, and explore the drawing style options.
+
+### Point symbol, color, and size
 
 <p align="center"><img class=" size-full wp-image-69 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_16.png?raw=true" alt="Capture_16"  /></p>
 
 <p align="center"><img class=" size-full wp-image-68 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_15.PNG?raw=true" alt="Capture_15"  /></p>
 
-### Point symbol, color, and size
-
 Click on the Change Style icon, and click the blue Options icon.
 
-<p align="center"><img class=" size-full wp-image-70 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_17.png?raw=true" alt="Capture_17"  /></p>
-
 ### Heatmaps and clustering
+
+<p align="center"><img class=" size-full wp-image-70 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_17.png?raw=true" alt="Capture_17"  /></p>
 
 You can create a Heat Map in the Change Style window.
 
 You can also cluster points using the Cluster Points option in the main map editing window.
 
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screeshots/Capture_12.png?raw=true" alt="Capture_12"  /></p>
-
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="Capture_19"  /></p>
-
 ### Configuring Popups
 
+<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture_12"  /></p>
+
 Hover your cursor over the data layer and click the three dots that appear.
+
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="Capture_19"  /></p>
 
 Click on the Configure Pop-up option to select what data fields display in the pop-up window that appears when you click on a map point. You can also reorder these elements.
 
@@ -128,15 +143,14 @@ Hover your cursor over the data layer and click the three dots that appear to se
 17-Save the Web Map regularly to avoid losing any changes.
 
 <hr />
+
 ## Adding Other Data From ArcGIS Online
 
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_c.png?raw=true" alt="Capture_19"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_7.png?raw=true" alt="Capture_7"  /></p>
 
 20-Select Add--Search for Layers to bring in data that other users have published to ArcGIS Online.
 
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_m.png?raw=true" alt="Capture_19"  /></p>
-
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_n.png?raw=true" alt="Capture_19"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_n.png?raw=true"  /></p>
 
 21-Click on My Content to open up a drop-down menu. Select the option to search through ArcGIS Online.
 
@@ -146,11 +160,11 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 23-Save your map regularly by clicking the Save icon.
 
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_j.png?raw=true" alt="Capture_19"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_j.png?raw=true"  /></p>
 
 24-Click the Share icon when you are ready to share your map with other users in the Grinnell organization or the general public.
 
-<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_k.png?raw=true" alt="Capture_19"  /></p>
+<p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_k.png?raw=true" /></p>
 
 25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
 
