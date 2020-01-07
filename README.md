@@ -11,9 +11,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 1-Open Firefox or Chrome and navigate to <a href="http://grinnell.maps.arcgis.com/">http://grinnell.maps.arcgis.com/</a> in the web browser.
 
-2-Use the following credentials to log in:
-- Username: dasil1
-- Password: dasil123
+2-Use the username and password you created when accepting the invitation email to sign in.
 
 3- Click the blue <strong>Sign In</strong> button in the middle of the page.
 
@@ -41,7 +39,7 @@ Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc
 
 ## Adding Point Data to Your Map
 
-8-Download the SquirrelData.csv file from this repo. 
+8-Download the SampleData.csv file from this repo. 
 
 9-Open the data in Microsoft Excel or another spreadsheet program. What fields do you see?
 
@@ -117,53 +115,28 @@ Hover your cursor over the data layer and click the three dots that appear to se
 
 <hr />
 
-## Adding Polygon Data to Your Map
-
-14-The squirrel dataset we added to the map was based on specific locations tied to precise latitude and longitude coordinates. Point data works well when each item in your dataset has a specific, discrete location that can be effectively represented by a dot on a map.
-
-15-But in some cases we might want to work with geospatial data that isn't effectively represented by a dot on a map. If the locations in your data cover an area, territory, or region (for example a state or country), polygon geospatial data may be a better fit.
-
-16-Download the SchoolData GeoJSON file and SchoolData CSV file from this repository.
-
-17-Open the CSV file in Microsoft Excel or another spreadsheet program. What fields do you see represented? How is this geospatial data different from the squirrel data?
-
-18-Select Add--Add Layer from File. This time select the SchoolData GeoJSON file saved to your Desktop.
-
-19-You can customize the polygon layer in the same way you customized the point layer.
-
 ## Adding Other Data From ArcGIS Online
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_c.png?raw=true" alt="Capture_19"  /></p>
 
-20-Select Add--Search for Layers to bring in data that other users have published to ArcGIS Online.
+14-Select Add--Search for Layers to bring in data that other users have published to ArcGIS Online.
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_m.png?raw=true" alt="Capture_19"  /></p>
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_n.png?raw=true" alt="Capture_19"  /></p>
 
-21-Click on My Content to open up a drop-down menu. Select the option to search through ArcGIS Online.
+15-Click on My Content to open up a drop-down menu. Select the option to search through ArcGIS Online.
 
-22-Use different key words or terms to find other data that you might want to bring into your map.
+16-Use different key words or terms to find other data that you might want to bring into your map.
 
 ## Saving, Sharing, and Printing Your Map
 
-23-Save your map regularly by clicking the Save icon.
+17-Save your map regularly by clicking the Save icon.
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_j.png?raw=true" alt="Capture_19"  /></p>
 
-24-Click the Share icon when you are ready to share your map with other users in the Grinnell organization or the general public.
+18-Click the Share icon when you are ready to share your map with other users in the Grinnell organization or the general public.
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_k.png?raw=true" alt="Capture_19"  /></p>
 
-25-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
-
-<hr />
-
-## Additional Resources
-
-If you want to try creating other interactive maps using different data sets, then you can access and download other sample data sets in the links provided below.  If you plan to use your own data set, then make sure your data include information related to location (i.e., longitude and latitude coordinates).
-
-* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-08-20">Nuclear Explosions</a>
-* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29">NYC Squirrel Census</a>
-* <a href = "https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-25">UFO Sightings Around the World</a>
-
+19-Click the Print icon to generate a static image with your map and legend that you can save as an image or print to a PDF.
