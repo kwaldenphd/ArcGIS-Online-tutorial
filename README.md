@@ -56,6 +56,8 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 ## Adding Data to Your Map
 
+<blockquote><em>Note: This rest of this tutorial is written using a sample data set. Your data, map, and map layers will look different than the images included in the tutorial.</em></blockquote>
+
 8-Download the SampleData.csv file from this repo. 
 
 9-Open the data in Microsoft Excel or another spreadsheet program. What fields do you see?
@@ -79,8 +81,6 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 <p align="center"><img class=" size-full wp-image-64 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture_11"  /></p>
 
 13-Click the Save icon above the map to save your map.
-
-<blockquote><em>Note: This rest of this tutorial is written using a sample data set. Your data, map, and map layers will look different than the images included in the tutorial.</em></blockquote>
 
 <hr />
 
