@@ -5,6 +5,23 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 <hr />
 
+# Table of Contents
+
+- [Logging in to ArcGIS Online](#logging-in-to-arcgis-online)
+- [Creating a New Map](#creating-a-new-map)
+- [Adding Data to Your Map](#adding-data-to-your-map)
+- [Customizing Your Map](#customizing-your-map)
+  * [Basemap](#basemap)
+  * [Legend](#legend)
+  * [Point symbol, color, and size](#point-symbol-color-and-size)
+  * [Heatmaps and clustering](#heatmaps-and-clustering)
+  * [Configuring Popups](#configuring-popups)
+  * [Other options](#other-options)
+- [Adding Other Data From ArcGIS Online](#adding-other-data-from-arcgis-online)
+- [Saving, Sharing, and Printing Your Map](#saving-sharing-and-printing-your-map)
+  
+
+
 ## Logging in to ArcGIS Online
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/DASIL-Workshop/screenshots/Capture_a.png?raw=true" alt="Capture" /></p>
@@ -37,7 +54,7 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
 
 <hr />
 
-## Adding Point Data to Your Map
+## Adding Data to Your Map
 
 8-Download the SampleData.csv file from this repo. 
 
@@ -98,8 +115,6 @@ Click on the Change Style icon, and click the blue Options icon.
 You can create a Heat Map in the Change Style window.
 
 You can also cluster points using the Cluster Points option in the main map editing window.
-
-<p align="center"><img class=" size-full wp-image-65 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screeshots/Capture_12.png?raw=true" alt="Capture_12"  /></p>
 
 <p align="center"><img class=" size-full wp-image-72 aligncenter" src="https://github.com/kwaldenphd/ArcGIS-Online-tutorial/blob/master/screenshots/Capture_19.PNG?raw=true" alt="Capture_19"  /></p>
 
