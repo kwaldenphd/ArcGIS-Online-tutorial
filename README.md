@@ -17,6 +17,7 @@ Getting Started With ArcGIS Online by <a href="dlac.grinnell.edu" rel="cc:attrib
   * [Heatmaps and clustering](#heatmaps-and-clustering)
   * [Configuring Popups](#configuring-popups)
   * [Other Options](#other-options)
+- [Adding a Georeferenced Historical Map](#adding-a-georeferenced-historical-map)
 - [Adding Other Data from ArcGIS Online](#adding-other-data-from-arcgis-online)
 - [Saving, Sharing, and Printing Your Map](#saving-sharing-and-printing-your-map)
 
